@@ -37,7 +37,7 @@ Hoy la marca trabaja con tiradas cortas, talles S, M y L pensados para quedar bi
 | Calzado | Zapatilla urbana blanca, Bota caña media, Sandalia taco bloque |
 | Accesorios | Cinturón de cuero ecológico, Cartera bandolera |
 
-Variantes: **Color × Talle** (S/M/L); calzado 35–40; accesorios talle único. Dos colores por producto.
+Variantes: **Color × Talle** (XS/S/M/L/XL); calzado 35–40; accesorios talle único. Las dos camperas de cuero son de talle único. Dos colores por producto.
 
 ## Combos sugeridos ("Armá tu look")
 
@@ -47,11 +47,47 @@ Variantes: **Color × Talle** (S/M/L); calzado 35–40; accesorios talle único.
 - **Invierno:** Tapado de paño clásico + Top morley cuello alto + Pantalón sastrero con pinzas
 - **Básicos:** Remera básica + Jeans + Campera de cuero negra
 
+## Ofertas y cupones vigentes
+
+Ofertas automáticas (se aplican solas en el carrito):
+- **3x2 en Remeras y Tops.**
+- **2x1 en Bombacha alta algodón.**
+- **15% OFF en toda la categoría Calzado.**
+- Varios productos ya tienen precio promocional propio (puffer, tapado, buzo, cardigan, remera, blusa, body, musculosa, jogger, falda, short, conjunto de lencería, bikini y camperas de cuero), y las ofertas anteriores se combinan con ellos.
+
+Cupones por look (el cliente los ingresa en el carrito; el descuento aplica solo a los productos del look):
+- **LOOKOFICINA15:** 15% en blazer, pantalón sastrero, cinturón y bota. Compra mínima $120.000.
+- **LOOKFINDE15:** 15% en buzo oversize, jeans, zapatilla y remera básica. Compra mínima $90.000.
+- **LOOKNOCHE20:** 20% en vestido de satén, sandalia, cartera y blusa satinada. Compra mínima $110.000.
+
+## Guía de talles (para "no sé qué talle soy")
+
+Medidas del cuerpo en cm, orientativas:
+
+| Talle | Equiv. AR | Busto | Cintura | Cadera |
+|---|---|---|---|---|
+| XS | 36 | 78-82 | 62-66 | 88-92 |
+| S | 38-40 | 84-88 | 68-72 | 94-98 |
+| M | 42 | 90-94 | 74-78 | 100-104 |
+| L | 44-46 | 96-102 | 80-86 | 106-112 |
+| XL | 48 | 104-110 | 88-94 | 114-120 |
+
+Calzado, por largo del pie (sumar 0,5 cm de comodidad):
+
+| Talle | 35 | 36 | 37 | 38 | 39 | 40 |
+|---|---|---|---|---|---|---|
+| Pie (cm) | 22,5 | 23 | 23,5 | 24 | 24,5 | 25 |
+
+- **Cómo medirse:** busto en la parte más ancha del pecho, cintura en la parte más angosta del torso, cadera en la parte más ancha, pie de talón a dedo más largo.
+- **Si las medidas caen entre dos talles**, elegir el mayor.
+- **Oversize:** talle habitual o uno menos. **Entallado:** ante la duda, el talle mayor.
+- La guía es orientativa (tienda demo) y se encuentra también en cada página de producto.
+
 ## Preguntas frecuentes (para consultas simuladas)
 
 1. **¿Es una tienda real?** No, es una tienda demo con fines de prueba.
-2. **¿Qué talles manejan?** Ropa S, M y L; calzado 35 a 40; accesorios talle único.
-3. **¿Cómo elijo mi talle?** Cortes regulares salvo indicación de oversize o entallado; consultar al chat.
+2. **¿Qué talles manejan?** Ropa XS, S, M, L y XL; calzado 35 a 40; accesorios talle único.
+3. **¿Cómo elijo mi talle?** Cortes regulares salvo indicación de oversize o entallado. Ver la Guía de talles más abajo o pasar las medidas al chat.
 4. **¿Qué colores hay?** Negro, blanco, arena, camel, champagne, chocolate, gris melange, azul marino (dos por producto).
 5. **¿Puedo cambiar una prenda?** En una tienda real: cambios dentro de 30 días con etiquetas. En la demo, la política es ilustrativa.
 6. **¿Cómo cuido mis prendas?** Lavado a mano o ciclo suave en frío, sin secarropas, planchado a baja temperatura.
@@ -67,6 +103,9 @@ Variantes: **Color × Talle** (S/M/L); calzado 35–40; accesorios talle único.
 
 ## Ideas de consultas para simular con el chat
 
+- "No sé qué talle soy: mido 92 de busto, 76 de cintura y 102 de cadera."
+- "¿Tienen un talle más grande de este buzo?"
+- "¿Qué descuentos o cupones tienen?"
 - "¿Qué talle me conviene en el jean tiro alto si uso M en remeras?"
 - "¿Qué me recomendás para ir a una cena?"
 - "¿Tienen el tapado en otro color?"
